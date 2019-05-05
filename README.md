@@ -6,3 +6,5 @@
 
 ## 第12章源码
 参见目录 `chapter12-source-code` 内 README
+
+[修订记录](./revise.md)
